@@ -1,5 +1,5 @@
 Rent Your Apartment is a full-stack web application designed to streamline the process of renting and managing apartments. Built using the MERN stack—MongoDB, 
-Express.js, React.js, and Node.js—the project leverages modern technologies to deliver a responsive and user-friendly experience. The platform serves as
+Express.js, and Node.js—the project leverages modern technologies to deliver a responsive and user-friendly experience. The platform serves as
 a one-stop solution for landlords and tenants, enabling them to connect efficiently.
 
 
